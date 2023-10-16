@@ -1,0 +1,27 @@
+body {
+    background-image: url(./images/best-pasta-recipes-roundup.jpg)
+}
+
+.tudo {
+    background-color: antiquewhite;
+    margin: 100px 500px;
+    text-align: center;
+    padding: 10px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    margin: 5px;
+    font-size: 30px;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+a {
+    color: rgb(114, 77, 148);
+}
